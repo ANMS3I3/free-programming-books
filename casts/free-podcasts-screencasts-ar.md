@@ -12,3 +12,6 @@
 * [null++: بالعربي](https://nullplus.plus) - Mohamed Luay, Ahmad Alfy (podcast)
 * [The Egyptian Guy](https://anchor.fm/refaie) - Mohamed Refaie (podcast)
 * [The Weekly Noob](https://theweeklynoob.netlify.app) - Nabil Tharwat (podcast)
+* [Tech Podcast بالعربي](https://anchor.fm/ahmedelemam) - Ahmed El-Emam (podcast)
+* [برمجة ستريم](https://youtube.com/playlist?list=PL0_C_32YKLpx7K88481CY3J21cw85oFCM) - Mohamed Abusrea (podcast)
+* [Codezilla Codecast](https://youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy) - Islam Hesham (podcast)
